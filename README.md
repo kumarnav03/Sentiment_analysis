@@ -41,7 +41,7 @@ Data description
 ![alt text](OCR_example.png)
 
 
-**Score Achived - 45.02 **
+**Score Achived - 45.02**
 
 # Real Life Intention
 
