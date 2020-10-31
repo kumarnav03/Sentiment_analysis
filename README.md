@@ -33,3 +33,10 @@ Data description
 
 [Inspiration](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pride-month-edition/)
 
+# My Approach
+
+**Pytesseract** is wonderful tool for extracting text from images having more option to play around with background color , rotation , resizing feature to improve the precision. Extracted Text is Analyized and for given problem set we have limitation with training samples which gives us the need to use **Naive Bayes** model for classifying sentiments into categorized Label.
+
+
+![alt text](OCR_example.png)
+
