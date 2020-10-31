@@ -40,3 +40,9 @@ Data description
 
 ![alt text](OCR_example.png)
 
+
+**Score Achived - 45.02 **
+
+# Real Life Intention
+
+This can be used to by any product where users are uploading images ( in sake of entertainment) and this will help the company to see the trend of user sentiment & influence due to any poltical/social triggered incident. Hence driving the business in helping the community to spread more **LOVE**
