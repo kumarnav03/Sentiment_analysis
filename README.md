@@ -37,6 +37,7 @@ Data description
 
 **Pytesseract** is wonderful tool for extracting text from images having more option to play around with background color , rotation , resizing feature to improve the precision. Extracted Text is Analyized and for given problem set we have limitation with training samples which gives us the need to use **Naive Bayes** model for classifying sentiments into categorized Label.
 
+*OCR ---> Text ---> Preprocessing ---> CountVectorizer  ---> NB MOdelling ---> Prediction*
 
 ![alt text](OCR_example.png)
 
@@ -46,3 +47,6 @@ Data description
 # Real Life Intention
 
 This can be used to by any product where users are uploading images ( in sake of entertainment) and this will help the company to see the trend of user sentiment & influence due to any poltical/social triggered incident. Hence driving the business in helping the community to spread more **LOVE**
+
+
+**Thank you !!**
